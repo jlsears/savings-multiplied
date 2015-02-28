@@ -1,28 +1,18 @@
-# Heading 1
-
-## Heading 2
-
-### Heading 3
+# About Jen Sears
 
 
-1. Item 1
-1. Item 2
-1. Item 3
+> A little bit of creativity. a little bit of system configuration dexterity. And coming soon, a little of programming wizardry just to top it all off.
 
 
-<hr/>
+> So in short, what I will be able to bring to you includes:
 
-<ul>
-<li>Bullet 1</li>
-<li>Bullet 2</li>
-</ul>
+1. A certain nimbleness with the written word and smashing liberal arts background.
+1. Years of skill development in system configuration, data scrubbing, and generally bending data to my will.
+1. Coding skill deviousness currently in the process of being finely honed.
 
-<pre class="code">
-var thisVariable = "awesome variable";
-</pre>
 
-<blockquote>
-"That" - She
-</blockquote>
+> Need more info?
 
-<a href="http://www.stevebrownlee.com">a link to me</a>
+
+[check out some of my finely made renderings here](http://www.jenssweetworksamples.com)
+
