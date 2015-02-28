@@ -11,7 +11,7 @@
 1. Coding skill deviousness currently in the process of being finely honed.
 
 
-> Need more info?
+> Need **more** info?
 
 
 [check out some of my finely made renderings here](http://www.jenssweetworksamples.com)
